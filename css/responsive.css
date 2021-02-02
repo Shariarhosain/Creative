@@ -1,0 +1,211 @@
+
+
+
+
+@media (max-width:1280px) {
+    .top_header_img:after {
+        display: none;
+
+    }
+
+}
+
+@media (max-width:1199px) {
+    .features_contant li h6 {
+   
+        font-size: 1.4rem;}
+    .features_small_heading:hover::before {
+        width: 29rem;
+         height: 9rem;
+    }
+    .portfolio_img_im_hed p {
+    font-size: 1.2rem;
+    }
+
+    .top_header_img:before {
+        display: none;
+    }
+    .features_contant li p {
+    font-size: 1.2rem;
+   
+}
+    .service_sec_heading h2 {
+    
+        padding-bottom: 7rem;}
+    .card_text li > span {
+    font-size: 3rem;
+}
+   
+    sup {
+    top: -1rem;
+ 
+}
+    .card_text li > p {
+    font-size: 1rem;
+}
+    .team_filt_content li:nth-child(1) {
+        font-size: 1.4rem;}
+    
+    
+    
+    
+    
+    
+    .flip-card-front, .flip-card-back {
+
+        height: 35rem;}
+    
+    .team_filt_content li:nth-child(2) {
+
+    padding-bottom: 3rem;
+}
+    
+    .team_filt_heading p {
+        font-size: 1rem;}
+    
+}
+
+
+@media (max-width:992px) {
+.flip-card-front, .flip-card-back {
+    height: 33rem;
+}
+
+.footer li {
+   
+    font-size: 1.5rem;}
+    .top_header_contant h1 {
+
+        max-width: 42rem;
+        margin: auto;
+    }
+
+    .top_header_contant p {
+        max-width: 55rem;
+        margin: auto;
+    }
+
+   
+
+    html {
+        font-size: 50%;
+    }
+
+    .service_box_hiden {
+        padding: 1rem 2rem 0 2rem;
+    }
+}
+
+@media (max-width:768px) {
+    .flip-card-front, .flip-card-back {
+    height: 31.5rem;
+}
+
+    .features_small_heading:hover::before {
+        width: 35rem;
+        height: 13rem;
+    }
+
+    .btn {
+        margin-bottom: 15px;
+    }
+
+    html {
+        font-size: 40%;
+    }
+    .ssss{
+        margin-top: -1rem;
+    }
+    .features_contant li p {
+ 
+        max-width: 20rem;}
+    
+}
+
+@media (max-width:576px) {
+    #block{
+     display: none;
+    }
+
+    .features_small_heading:hover::before {
+        width: 29rem;
+        height: 10rem;
+    }
+    
+
+    html {
+        font-size: 35%;
+    }
+    .bost_website_contant p {
+    max-width: 50rem;
+    margin: auto;
+}
+    .bost_website_contant h3::after {
+   
+        transform: translate(-81%);
+    }
+    .number {
+    font-size: 2.5rem;
+    
+}
+
+.service_box_dowen h5 {
+ 
+    font-size: 2rem;
+   
+}
+
+.ss {
+    font-size: 2.5rem;
+   
+}
+ .about_us_banner {
+  
+    background-attachment: scroll;
+}
+   
+.ss1:hover .card-body{
+    height: 100%;
+    width: 100%;
+    }
+.card-body,list-group{
+    opacity: 1;
+       height: 100%;
+    width: 100%;
+  
+}
+    .service_section .service_img {
+        display: none;}
+    .service_section {
+    
+    padding-bottom: 15rem;
+      }
+}
+@media (max-width: 450px){
+
+}
+
+@media(max-width:360px){
+    .features_contant li p {
+    font-size: .5rem;
+}
+    .features_contant li h6 {
+        font-size: 1rem;}
+
+    .features_heading h2::before {
+    top: -4.9rem;
+        font-size: 6.1rem;}
+    .features_small_heading:hover::before {
+        width: 25rem!important;
+        height: 10rem;
+    }
+    .features_heading h2 {
+    font-size: 2rem;
+}
+}
+@media(max-width:320px){
+    .features_small_heading:hover::before {
+    width: 23rem!important;
+    height: 9rem;
+}
+}
